@@ -7,4 +7,4 @@
 
 # AI papers
 [Paper search -- Academia.edu](https://www.academia.edu/)  
-[Paper search -- Sci-Hub](http://sci-hub.cc/)  
+[Paper search -- Sci-Hub](http://sci-hub.cc/) or [sci-Hub.bz](http://sci-hub.bz/) or [sci-Hub.ac](http://sci-hub.ac/)  
