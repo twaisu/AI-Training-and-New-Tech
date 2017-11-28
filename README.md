@@ -10,5 +10,5 @@
 [Paper search -- Sci-Hub](http://sci-hub.cc/) or [sci-Hub.bz](http://sci-hub.bz/) or [sci-Hub.ac](http://sci-hub.ac/)  
 
 # Sppech Recognition and Natural Language Processing
-[CMU Sphinx - OPEN SOURCE SPEECH RECOGNITION TOOLKIT](https://cmusphinx.github.io/)
+[CMU Sphinx - OPEN SOURCE SPEECH RECOGNITION TOOLKIT](https://cmusphinx.github.io/)  
 [Julius: Open-Source Large Vocabulary Continuous Speech Recognition Engine](https://github.com/julius-speech/julius)
